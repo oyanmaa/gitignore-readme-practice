@@ -2,3 +2,5 @@
 debug.log
 secret.txt
 tmp/
+__pycache__/
+*.pyc
