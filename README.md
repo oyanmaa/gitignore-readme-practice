@@ -14,20 +14,14 @@ Python版とJava版があります。
 ## Python版：janken.py
 1. ターミナル（またはコマンドプロンプト）でフォルダに移動  
 2. 以下を実行  
-```
-phython janken.py
-```
+```phython janken.py```
 
 ## Java版：Janken.java
 1. ターミナル（またはコマンドプロント）でフォルダに移動  
 2. コンパイル  
-```
-javac Janken.java
-```  
+```javac Janken.java```  
 3. 実行  
-```
-java Janken
-```
+```java Janken```
 
 ## 遊び方
 1. プログラムを実行すると、手の選択肢が表示されます。  
@@ -48,4 +42,3 @@ java Janken
 ## 作者
 
 - ＭＣＬ盛岡情報ビジネス＆デザイン専門学校
-
